@@ -1,0 +1,33 @@
+/* css doc for my image page */
+
+/* creating a class selector to format the images */
+#header{
+    font-size: 1.5em;
+    text-align: center;
+}
+
+img {
+    width: auto;
+    height: 20em;
+    margin-right: 30px;
+}
+
+
+body {background-color: #FFCCCC;
+		color: black;
+		font-size: 18px;
+	}
+h1{
+    text-align: center;
+}
+
+#copyright {position: fixed;
+    bottom: 0;
+}
+
+table{
+    border: 1px solid hotpink;
+    background-color: #CCFFFF;
+	border-collapse: collapse;
+	padding: 6px;
+}

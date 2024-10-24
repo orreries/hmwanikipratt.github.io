@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+	<meta charset="UTF-8">
+    <link rel = "stylesheet" type = "text/css" href="style.css">
+   </head>
+   <body>
+	<h1>Hair Looks</h1>
+	<p1>My name is Ori. Here's some styles I've done!</p1>
+       
+<div class = "form_img">
+<img src="fauxlocs.jpg" alt="This is me with burgundy faux locs.">
+<img src="dookiebraids.jpg" alt="This is me with dookie braids without any added hair.">
+<img src="bohored.jpg" alt="This is me with ginger boho/passion braids.">
+</div>
+    
+</body>
+</html>
